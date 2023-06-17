@@ -8,7 +8,7 @@ let etapas = [
                     name: 'José Silva',
                     partido: 'Coxinhas',
                     fotos: [
-                        {url:'5556529.png', legenda: 'Vereador'}
+                        {url:'/5556529.png', legenda: 'Vereador'}
                     ]
                 },
 
@@ -17,7 +17,7 @@ let etapas = [
                     name: 'Brian Duarte',
                     partido: 'Desenvolvedores Front-end',
                     fotos: [
-                        {url: '5556468.png', legenda: 'Vereador'}
+                        {url: '/5556468.png', legenda: 'Vereador'}
                     ]
                 },
             ]
@@ -33,8 +33,8 @@ let etapas = [
                     partido: 'Bancários Anônimos',
                     vice: 'Nelzinha',
                     fotos: [
-                        {url:'iconfinder-4-avatar-2754580_120522.png', legenda: 'Prefeito'},
-                        {url: '10594872.jpg', legenda: 'Vice-Prefeito', small: true}
+                        {url:'/iconfinder-4-avatar-2754580_120522.png', legenda: 'Prefeito'},
+                        {url: '/10594872.jpg', legenda: 'Vice-Prefeito', small: true}
                     ]
                 },
                 {
