@@ -8,7 +8,7 @@ let etapas = [
                     name: 'José Silva',
                     partido: 'Coxinhas',
                     fotos: [
-                        {url:'/5556529.png', legenda: 'Vereador'}
+                        {url:'urna_eletronica/images/5556529.png', legenda: 'Vereador'}
                     ]
                 },
 
