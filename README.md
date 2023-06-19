@@ -24,4 +24,4 @@ Foi um desafio muito divertido e pude aprimorar ainda mais as habilidades com o 
 
 
 
-link do projeto: 
+link do projeto: https://brianmduarte.github.io/urna_eletronica/
